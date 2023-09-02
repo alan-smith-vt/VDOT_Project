@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-4.7151 -2.1992 -1.3930 3.5028 0.0691 6.7313" targetId="9e9997da34014b06aa828f1713a385dc" name="Block1" pathAuthoring="9e9997da34014b06aa828f1713a385dc_authoring.glb" pathOcclusion="9e9997da34014b06aa828f1713a385dc_occlusion.3dt" pathNavMesh="9e9997da34014b06aa828f1713a385dc_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>

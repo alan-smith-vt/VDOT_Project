@@ -1,0 +1,8 @@
+Day;StartTime;UserID;Interaction Type;Crack Type;Hand;Completion Time [ms];Height [m];Width [m];Depth [m];Dmax [m];Points;Release interactions;No created points;Total interactions;N. pictures; N. CV points tot; N. CV points final; Flag active; 
+26-04-2023;19.23.33;;CV+Manual ;1;Right;4817;Sample text;Sample text;Sample text;0,010;0;0;0;0 ;1 ;0 ;0 ;False 
+26-04-2023;22.27.53;;CV ;1;Right;9286;Sample text;Sample text;Sample text;0,010;0;0;0;0 ;1 ;0 ;0 ;False 
+29-04-2023;15.08.32;;CV ;2;Right;45427;Sample text;Sample text;Sample text;0.010;0;0;0;0 ;3 ;0 ;0 ;False 
+29-04-2023;15.12.00;;CV ;2;Right;6709;Sample text;Sample text;Sample text;0.010;0;0;0;0 ;1 ;0 ;0 ;False 
+03-06-2023;17.28.28;;Manual ;2;Right;2852;Sample text;Sample text;Sample text;0.002;0;1;-1;0 ;0 ;0 ;0 ;;;False 
+03-06-2023;17.34.59;;CV ;2;Right;214940;Sample text;Sample text;Sample text;0.002;0;0;0;0 ;3 ;0 ;0 ;;;False 
+03-06-2023;17.35.17;;Manual ;2;Right;1071;Sample text;Sample text;Sample text;0.002;0;0;0;0 ;0 ;0 ;0 ;;;False 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-2.6012 -1.4682 -2.7437 2.9048 1.0018 2.9683" targetId="11ff81c0914043a0b3826eeae4f97d8f" name="AR_Bridge_1" pathAuthoring="11ff81c0914043a0b3826eeae4f97d8f_authoring.glb" pathOcclusion="11ff81c0914043a0b3826eeae4f97d8f_occlusion.3dt" pathNavMesh="11ff81c0914043a0b3826eeae4f97d8f_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,139 @@
+Day: 26-04-2023 - Time: 19-23-33
+User: 
+Interaction type: CV+Manual 
+Crack type: 1 
+Hand: Right
+CompletionTime [ms]: 4817
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0,010 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 1 
+N. CV points tot: 0 
+N. CV points final: 0 
+Flag active: False 
+
+Day: 26-04-2023 - Time: 22-27-53
+User: 
+Interaction type: CV 
+Crack type: 1 
+Hand: Right
+CompletionTime [ms]: 9286
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0,010 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 1 
+N. CV points tot: 0 
+N. CV points final: 0 
+Flag active: False 
+
+Day: 29-04-2023 - Time: 15-08-32
+User: 
+Interaction type: CV 
+Crack type: 2 
+Hand: Right
+CompletionTime [ms]: 45427
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0.010 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 3 
+N. CV points tot: 0 
+N. CV points final: 0 
+Flag active: False 
+
+Day: 29-04-2023 - Time: 15-12-00
+User: 
+Interaction type: CV 
+Crack type: 2 
+Hand: Right
+CompletionTime [ms]: 6709
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0.010 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 1 
+N. CV points tot: 0 
+N. CV points final: 0 
+Flag active: False 
+
+Day: 03-06-2023 - Time: 17-28-28
+User: 
+Interaction type: Manual 
+Crack type: 2 
+Hand: Right
+CompletionTime [ms]: 2852
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0.002 m 
+N. points: 0 
+N. point interactions: 1 
+N. no created points: -1 
+N. interactions tot: 0 
+N. pictures: 0 
+N. CV points tot: 0 
+N. CV points final: 0 
+CV raw data: 
+Final raw data: 
+Flag active: False 
+
+Day: 03-06-2023 - Time: 17-34-59
+User: 
+Interaction type: CV 
+Crack type: 2 
+Hand: Right
+CompletionTime [ms]: 214940
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0.002 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 3 
+N. CV points tot: 0 
+N. CV points final: 0 
+CV raw data: 
+Final raw data: 
+Flag active: False 
+
+Day: 03-06-2023 - Time: 17-35-17
+User: 
+Interaction type: Manual 
+Crack type: 2 
+Hand: Right
+CompletionTime [ms]: 1071
+Height: Sample text
+Width: Sample text
+Depth: Sample text
+SphereDiameter_max: 0.002 m 
+N. points: 0 
+N. point interactions: 0 
+N. no created points: 0 
+N. interactions tot: 0 
+N. pictures: 0 
+N. CV points tot: 0 
+N. CV points final: 0 
+CV raw data: 
+Final raw data: 
+Flag active: False 
+
